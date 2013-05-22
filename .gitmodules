@@ -1,0 +1,6 @@
+[submodule "nanohttpd"]
+	path = nanohttpd
+	url = git@github.com:NanoHttpd/nanohttpd.git
+[submodule "bootstrap-theme"]
+	path = bootstrap-theme
+	url = git@github.com:davidmartinho/bootstrap-theme.git
