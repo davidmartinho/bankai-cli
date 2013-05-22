@@ -1,0 +1,17 @@
+define([
+    'backbone',
+    'marionette',
+    'views/${itemView}',
+    'views/${emptyView}',
+    'text!templates/${viewName}.html'
+], function(Backbone, Marionette, ${itemView}View, ${emptyView}View, tpl) {
+	return Backbone.Marionette.CollectionView.extend({
+		
+		itemView: ${itemView}View,
+		
+		emptyView: ${emptyView}View,
+		
+		template: tpl
+		
+	});
+});

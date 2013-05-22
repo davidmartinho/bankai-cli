@@ -1,0 +1,12 @@
+define([
+	'backbone',
+	'models/${modelName}',
+], function(Backbone, ${modelName}Model) {
+	return Backbone.Collection.extend({
+		
+		url: "../api/${artifactId}/${url}",
+		
+		model: ${modelName}Model
+	    
+	});
+});

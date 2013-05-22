@@ -1,0 +1,1 @@
+<span label="label label-inverse">{{#_i18n}}Hello World{{/_i18n}}</span>

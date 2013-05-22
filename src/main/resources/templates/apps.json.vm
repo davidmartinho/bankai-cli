@@ -1,0 +1,8 @@
+{
+	"apps" : [{
+		"title" :  {"pt-PT" : "${applicationName}", "en-GB" : "${applicationName}"},
+		"description" : {"pt-PT" : "${applicationName}", "en-GB" : "${applicationName}"},
+		"accessExpression" : "${accessExpression}",
+		"path" : "${artifactId}/",
+		"functionalities" : []
+}]}
