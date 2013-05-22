@@ -10,7 +10,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         
         <version.com.beust.jcommander>1.30</version.com.beust.jcommander>
-        <version.fi.iki.elonen.nanohttpd>1.0.0</version.fi.iki.elonen.nanohttpd>
+        <version.fi.iki.elonen.nanohttpd>2.0.0</version.fi.iki.elonen.nanohttpd>
         <version.commons.io.commons.io>2.4</version.commons.io.commons.io>
         <version.org.apache.velocity.velocity>1.7</version.org.apache.velocity.velocity>
         <version.org.apache.maven.maven.model>3.0.5</version.org.apache.maven.maven.model>
